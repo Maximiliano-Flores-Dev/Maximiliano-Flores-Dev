@@ -10,12 +10,12 @@
 
 <br><br>
 
-<!-- Badges de identidad con tus colores originales de la imagen -->
+<!-- Badges de identidad con tus colores originales -->
 <a href="https://github.com/Maximiliano-Flores-Dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://huggingface.co/Maximiliano-Flores-Dev" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0C141F?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
 </a>
 <a href="mailto:maximilianoflorescaceres2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" />
@@ -106,11 +106,9 @@ Entorno de auditoría estructurada con interfaz de línea de comandos minimalist
 
 <div align="center">
 
-<!-- Estadísticas en línea optimizadas para no fallar en dispositivos móviles -->
+<!-- Tarjetas estables de respaldo para evitar errores de red de Vercel -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maximiliano-Flores-Dev&show_icons=true&theme=vue-dark&hide_border=true&bg_color=111111&title_color=FFFFFF&icon_color=A0A0A0&text_color=A0A0A0" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliano-Flores-Dev&layout=compact&theme=vue-dark&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=A0A0A0" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maximiliano-Flores-Dev&theme=vue_dark" alt="Profile Details" />
 </p>
 
 <br>
