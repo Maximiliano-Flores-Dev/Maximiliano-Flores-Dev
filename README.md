@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" />
 </a>
 <a href="https://github.com/Maximiliano-Flores-Dev" target="_blank">
-  <img src="https://img.shields.io/badge/Status-Building%20Independent-222222?style=for-the-badge&logo=statuspage&logoColor=FFFFFF" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building%20Independent-25D366?style=for-the-badge&logo=statuspage&logoColor=FFFFFF" alt="Status" />
 </a>
 
 </div>
